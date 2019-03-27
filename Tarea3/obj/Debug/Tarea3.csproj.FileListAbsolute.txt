@@ -1,0 +1,9 @@
+c:\users\jeffrey\documents\visual studio 2015\Projects\Tarea3\Tarea3\bin\Debug\Tarea3.exe.config
+c:\users\jeffrey\documents\visual studio 2015\Projects\Tarea3\Tarea3\bin\Debug\Tarea3.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\Tarea3\Tarea3\bin\Debug\Tarea3.pdb
+c:\users\jeffrey\documents\visual studio 2015\Projects\Tarea3\Tarea3\obj\Debug\Tarea3.csprojResolveAssemblyReference.cache
+c:\users\jeffrey\documents\visual studio 2015\Projects\Tarea3\Tarea3\obj\Debug\Tarea3.Form1.resources
+c:\users\jeffrey\documents\visual studio 2015\Projects\Tarea3\Tarea3\obj\Debug\Tarea3.Properties.Resources.resources
+c:\users\jeffrey\documents\visual studio 2015\Projects\Tarea3\Tarea3\obj\Debug\Tarea3.csproj.GenerateResource.Cache
+c:\users\jeffrey\documents\visual studio 2015\Projects\Tarea3\Tarea3\obj\Debug\Tarea3.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\Tarea3\Tarea3\obj\Debug\Tarea3.pdb
